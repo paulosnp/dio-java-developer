@@ -40,6 +40,6 @@ Os conteúdos estão estruturados em módulos que constroem o conhecimento de fo
 
 Sinta-se à vontade para conferir meu progresso, sugestões ou trocar ideias!
 
-| Plataforma | Link                         |
-| :--- |:-----------------------------|
-| **LinkedIn** | [Meu Perfil no LinkedIn]([https://www.linkedin.com/in/paulosnp/]) |
+| Plataforma | Link                                                            |
+| :--- |:----------------------------------------------------------------|
+| **LinkedIn** | [Meu Perfil no LinkedIn](https://www.linkedin.com/in/paulosnp/) |
